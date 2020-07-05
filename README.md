@@ -1,32 +1,28 @@
-<img src='paper/shinjuku.jpg' align="left" width=1000>
 
-<br><br><br>
+Join me at www.dakshtrehan.com ; www.linkedin.com/in/dakshtrehan
 
-# [CVPR2020]Learning to Cartoonize Using White-box Cartoon Representations
-[project page](https://systemerrorwang.github.io/White-box-Cartoonization/) |   [paper](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf) |   [twitter](https://twitter.com/IlIIlIIIllIllII/status/1243108510423896065) |   [zhihu](https://zhuanlan.zhihu.com/p/117422157) |   [bilibili](https://www.bilibili.com/video/av56708333)
+# Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations.
+## It is implementation of [White Box Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) with some minor tweaks.
 
-Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”.
-
-<img src="images/method.jpg" width="1000px"/>
-<img src="images/use_cases.jpg" width="1000px"/>
-
-## Use cases
-
-### Scenery
-<img src="images/city1.jpg" width="1000px"/>
-<img src="images/city2.jpg" width="1000px"/>
-
-### Food
-<img src="images/food.jpg" width="1000px"/>
-
-### Indoor Scenes
-<img src="images/home.jpg" width="1000px"/>
-
-### People
-<img src="images/person1.jpg" width="1000px"/>
-<img src="images/person2.jpg" width="1000px"/>
-
-### More Images Are Shown In The Supplementary Materials
+## Use Cases:
+![](test_images/Photo1.png)
+![](Cartoonized%20images/Photo1.png)
+______________________________________________________________________________________________________________________________________________________________________
+### Copyright Free image downloaded from PixaBay
+![](test_images/Photo2.jpg)
+![](Cartoonized%20images/Photo2.jpg)
+______________________________________________________________________________________________________________________________________________________________________
+### Copyright Free image downloaded from PixaBay
+![](test_images/Photo3.jpg)
+![](Cartoonized%20images/Photo3.jpg)
+______________________________________________________________________________________________________________________________________________________________________
+### Copyright Free image downloaded from PixaBay
+![](test_images/Photo4.jpg)
+![](Cartoonized%20images/Photo4.jpg)
+______________________________________________________________________________________________________________________________________________________________________
+### Copyright Free image downloaded from PixaBay
+![](test_images/Photo5.jpg)
+![](Cartoonized%20images/Photo5.jpg)
 
 ## Prerequisites
 
@@ -73,16 +69,11 @@ https://drive.google.com/file/d/1j0jDENjdwxCDb36meP6-u5xDBzmKBOjJ/view?usp=shari
 - We use this repo(https://github.com/nagadomi/lbpcascade_animeface) to detect facial areas
 - Manual data cleaning will greatly increace both datasets quality
 
-## Acknowledgement
 
-We are grateful for the help from Lvmin Zhang and Style2Paints Research
-
-## License
-Copyright (C) Xinrui Wang, Jinze Yu. All rights reserved. Licensed under the CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
 ## Citation
 
-If you use this code for your research, please cite our [paper](https://systemerrorwang.github.io/White-box-Cartoonization/):
+If you use this code for your research, please cite [paper](https://systemerrorwang.github.io/White-box-Cartoonization/):
 
 @InProceedings{Wang_2020_CVPR,
 author = {Wang, Xinrui and Yu, Jinze},
