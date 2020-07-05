@@ -5,39 +5,27 @@ Join me at www.dakshtrehan.com ; www.linkedin.com/in/dakshtrehan
 ## It is implementation of [White Box Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) with some minor tweaks.
 
 ## Use Cases:
-![](test_images/Photo1.png)
-![](Cartoonized%20images/Photo1.png)
+![](test_code/test_images/Photo1.png)    
+![](test_code/Cartoonized%20images/Photo1.png)
 ______________________________________________________________________________________________________________________________________________________________________
 ### Copyright Free image downloaded from PixaBay
-![](test_images/Photo2.jpg)
-![](Cartoonized%20images/Photo2.jpg)
+![](test_code/test_images/Photo2.jpg)
+![](test_code/Cartoonized%20images/Photo2.jpg)
 ______________________________________________________________________________________________________________________________________________________________________
 ### Copyright Free image downloaded from PixaBay
-![](test_images/Photo3.jpg)
-![](Cartoonized%20images/Photo3.jpg)
+![](test_code/test_images/Photo3.jpg)
+![](test_code/Cartoonized%20images/Photo3.jpg)
 ______________________________________________________________________________________________________________________________________________________________________
 ### Copyright Free image downloaded from PixaBay
-![](test_images/Photo4.jpg)
-![](Cartoonized%20images/Photo4.jpg)
+![](test_code/test_images/Photo4.jpg)
+![](test_code/Cartoonized%20images/Photo4.jpg)
 ______________________________________________________________________________________________________________________________________________________________________
 ### Copyright Free image downloaded from PixaBay
-![](test_images/Photo5.jpg)
-![](Cartoonized%20images/Photo5.jpg)
-
-## Prerequisites
-
-- Training code: Linux or Windows
-- NVIDIA GPU + CUDA CuDNN for performance
-- Inference code: Linux, Windows and MacOS
+![](test_code/test_images/Photo5.jpg)
+![](test_code/Cartoonized%20images/Photo5.jpg)
 
 
 ## How To Use
-
-### Installation
-
-- Assume you already have NVIDIA GPU and CUDA CuDNN installed 
-- Install tensorflow-gpu, we tested 1.12.0 and 1.13.0rc0 
-- Install scikit-image==0.14.5, other versions may cause problems
 
 
 ### Inference with Pre-trained Model
@@ -47,7 +35,7 @@ ________________________________________________________________________________
 - Results will be saved in /test_code/cartoonized_images
 
 
-### Train
+### Training from Scratch
 
 - Place your training data in corresponding folders in /dataset 
 - Run pretrain.py, results will be saved in /pretrain folder
