@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1j0jDENjdwxCDb36meP6-u5xDBzmKBOjJ/view?usp=shari
 
 ### Datasets
 
-- Due to copyright issues, we cannot provide cartoon images used for training
+- Due to copyright issues, we cannot provide cartoon images used for training.
 - However, these training datasets are easy to prepare
 - Scenery images are collected from Shinkai Makoto, Miyazaki Hayao and Hosoda Mamoru films
 - Clip films into frames and random crop and resize to 256x256
