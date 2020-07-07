@@ -1,7 +1,7 @@
 
 Join me at www.dakshtrehan.com ; www.linkedin.com/in/dakshtrehan
 
-# Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations.
+## Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations.
 ## It is implementation of [White Box Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) with some minor tweaks.
 
 ## Use Cases:
