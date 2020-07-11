@@ -1,6 +1,8 @@
 
 Join me at www.dakshtrehan.com ; www.linkedin.com/in/dakshtrehan
 
+# Link to article: https://medium.com/towards-artificial-intelligence/an-insiders-guide-to-cartoonization-using-machine-learning-ce3648adfe8
+
 ## Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations.
 ## It is implementation of [White Box Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization) with some minor tweaks.
 
