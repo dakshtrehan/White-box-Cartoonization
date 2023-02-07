@@ -1,11 +1,11 @@
 import os
 import cv2
 import numpy as np
-import tensorflow as tf 
+import tensorflow.compat.v1 as tf
+tf.disable_v2_behavior()
 import network
 import guided_filter
 from tqdm import tqdm
-
 
 
 def resize_crop(image):
@@ -63,6 +63,5 @@ if __name__ == '__main__':
     if not os.path.exists(save_folder):
         os.mkdir(save_folder)
     cartoonize(load_folder, save_folder, model_path)
-    
 
-    
+ 
